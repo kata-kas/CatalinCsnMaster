@@ -1555,8 +1555,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.344398340249" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="417.344398340249" y="0" width="42.655601659751035" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.1938683498647" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="417.1938683498647" y="0" width="42.80613165013526" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1567,7 +1567,7 @@
                     </div>
                             <small>
                                 <div>5.03 kB</div>
-                                <div>90.73%</div>
+                                <div>90.69%</div>
                             </small>
                         </div>
                     </section>
@@ -1578,8 +1578,8 @@
                       Hack
                     </div>
                             <small>
-                                <div>514 bytes</div>
-                                <div>9.27%</div>
+                                <div>516 bytes</div>
+                                <div>9.31%</div>
                             </small>
                         </div>
                     </section>
@@ -3578,7 +3578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/10/2021, 21:08  with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 26/10/2021, 22:10  with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
