@@ -1548,18 +1548,18 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 35 edited files from 69 commits over last 7 days
+            estimation from 35 edited files from 66 commits over last 7 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="216.75740090316106" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="216.75740090316106" y="0" width="193.84972403411942" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="410.6071249372805" y="0" width="20.59959859508279" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="431.20672353236324" y="0" width="17.801053687907675" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="449.00777722027095" y="0" width="10.992222779729051" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="208.29194792671166" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="208.29194792671166" y="0" width="186.27892960462873" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="394.5708775313404" y="0" width="37.76036644165863" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="432.331243972999" y="0" width="17.10583413693346" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="449.43707810993243" y="0" width="10.562921890067503" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1570,7 +1570,7 @@
                     </div>
                             <small>
                                 <div>7.51 kB</div>
-                                <div>47.12%</div>
+                                <div>45.28%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1579,8 +1579,8 @@
                       Dockerfile
                     </div>
                             <small>
-                                <div>714 bytes</div>
-                                <div>4.48%</div>
+                                <div>1.36 kB</div>
+                                <div>8.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1590,7 +1590,7 @@
                     </div>
                             <small>
                                 <div>381 bytes</div>
-                                <div>2.39%</div>
+                                <div>2.3%</div>
                             </small>
                         </div>
                     </section>
@@ -1602,7 +1602,7 @@
                     </div>
                             <small>
                                 <div>6.72 kB</div>
-                                <div>42.14%</div>
+                                <div>40.5%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1612,7 +1612,7 @@
                     </div>
                             <small>
                                 <div>617 bytes</div>
-                                <div>3.87%</div>
+                                <div>3.72%</div>
                             </small>
                         </div>
                     </section>
@@ -3621,7 +3621,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2021, 13:17:25  with lowlighter/metrics@3.15.0</span>
+                <span>Last updated 4 Nov 2021, 14:10:02  with lowlighter/metrics@3.15.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
