@@ -1616,8 +1616,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="421.4627659574468" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="421.4627659574468" y="0" width="38.537234042553195" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.2418604651163" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="442.2418604651163" y="0" width="17.758139534883718" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1628,7 +1628,7 @@
                     </div>
                             <small>
                                 <div>4.13 kB</div>
-                                <div>91.62%</div>
+                                <div>96.14%</div>
                             </small>
                         </div>
                     </section>
@@ -1639,8 +1639,8 @@
                       Dockerfile
                     </div>
                             <small>
-                                <div>378 bytes</div>
-                                <div>8.38%</div>
+                                <div>166 bytes</div>
+                                <div>3.86%</div>
                             </small>
                         </div>
                     </section>
@@ -3649,7 +3649,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Nov 2021, 04:13:01  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 18 Nov 2021, 05:09:26  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
