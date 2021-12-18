@@ -1609,38 +1609,38 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 7 edited files from 16 commits over last 7 days
+            estimation from 6 edited files from 13 commits over last 6 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="277.91666666666663" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="277.91666666666663" y="0" width="182.08333333333331" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.6589861751152" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="241.6589861751152" y="0" width="218.34101382488478" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="orange" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      JS
+                      YAML
                     </div>
                             <small>
-                                <div>174 bytes</div>
-                                <div>60.42%</div>
+                                <div>114 bytes</div>
+                                <div>52.53%</div>
                             </small>
                         </div>
                     </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#cb171e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      YAML
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      JS
                     </div>
                             <small>
-                                <div>114 bytes</div>
-                                <div>39.58%</div>
+                                <div>103 bytes</div>
+                                <div>47.47%</div>
                             </small>
                         </div>
                     </section>
@@ -3659,7 +3659,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Dec 2021, 11:08:41  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 18 Dec 2021, 12:15:50  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
