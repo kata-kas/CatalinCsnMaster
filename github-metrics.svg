@@ -1616,8 +1616,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="289.75953079178885" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="289.75953079178885" y="0" width="170.24046920821115" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.8508158508159" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="290.8508158508159" y="0" width="169.14918414918415" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1627,8 +1627,8 @@
                       YAML
                     </div>
                             <small>
-                                <div>1.07 kB</div>
-                                <div>62.99%</div>
+                                <div>1.08 kB</div>
+                                <div>63.23%</div>
                             </small>
                         </div>
                     </section>
@@ -1640,7 +1640,7 @@
                     </div>
                             <small>
                                 <div>631 bytes</div>
-                                <div>37.01%</div>
+                                <div>36.77%</div>
                             </small>
                         </div>
                     </section>
@@ -3654,7 +3654,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2021, 08:13:26  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 24 Dec 2021, 09:11:20  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
