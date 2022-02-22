@@ -203,7 +203,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    12 Watchers
+                                    13 Watchers
                                 </div>
                             </section>
                         </div>
@@ -225,9 +225,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.1236657150868" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="271.1236657150868" y="0" width="99.37833285213515" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="370.501998567222" y="0" width="89.498001432778" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.99914276560077" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="270.99914276560077" y="0" width="99.35086169418044" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="370.3500044597812" y="0" width="89.6499955402188" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -240,7 +240,7 @@
                             </div>
                             <small>
                                 <div>17 MB</div>
-                                <div>58.94%</div>
+                                <div>58.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -251,8 +251,8 @@
                                 TS
                             </div>
                             <small>
-                                <div>5.61 MB</div>
-                                <div>19.46%</div>
+                                <div>5.62 MB</div>
+                                <div>19.49%</div>
                             </small>
                         </div>
                     </section>
@@ -2327,7 +2327,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2022, 22:10:45  with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 22 Feb 2022, 23:11:46  with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
