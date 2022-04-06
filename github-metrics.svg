@@ -225,9 +225,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.9080825442543" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="270.9080825442543" y="0" width="99.47204580578834" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="370.38012835004264" y="0" width="89.6198716499574" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.9036343655826" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="270.9036343655826" y="0" width="99.47796549907075" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="370.38159986465337" y="0" width="89.61840013534666" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -266,7 +266,7 @@
                             </div>
                             <small>
                                 <div>6.24 MB</div>
-                                <div>21.62%</div>
+                                <div>21.63%</div>
                             </small>
                         </div>
                     </section>
@@ -274,7 +274,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 15 edited files from 20 commits over last 5 days</small>
+                <small>estimation from 15 edited files from 21 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2351,7 +2351,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2022, 06:13:49  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 6 Apr 2022, 07:11:59  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
