@@ -268,20 +268,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 96.2kb of code in 190 edited files across 154 commits over last 5 days</small>
+                <small>estimation from 97.2kb of code in 198 edited files across 168 commits over last 5 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.62082785666573" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="132.62082785666573" y="0" width="123.98758861427741" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="256.60841647094315" y="0" width="62.24654700596868" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="318.85496347691185" y="0" width="38.79506130276455" height="8" fill="#f7931e"/>
-                    <rect mask="url(#languages-bar)" x="357.65002477967636" y="0" width="37.14969079273417" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="394.79971557241055" y="0" width="23.73892994893232" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="418.5386455213429" y="0" width="22.381003684630137" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="440.91964920597303" y="0" width="19.080350794027023" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="134.74855156431056" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="134.74855156431056" y="0" width="122.92510270725796" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="257.6736542715685" y="0" width="60.86168755925419" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="318.5353418308227" y="0" width="37.93194985778995" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="356.46729168861265" y="0" width="36.32318550510903" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="392.7904771937217" y="0" width="23.976403665859053" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="416.76688085958074" y="0" width="23.210786895607292" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="439.977667755188" y="0" width="20.022332244811967" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -293,8 +293,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>13.3 kB</div>
-                                <div>28.83%</div>
+                                <div>13.9 kB</div>
+                                <div>29.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -306,7 +306,7 @@
                             </div>
                             <small>
                                 <div>6.28 kB</div>
-                                <div>13.53%</div>
+                                <div>13.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -318,19 +318,19 @@
                             </div>
                             <small>
                                 <div>3.75 kB</div>
-                                <div>8.08%</div>
+                                <div>7.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                JSON
                             </div>
                             <small>
-                                <div>2.26 kB</div>
-                                <div>4.87%</div>
+                                <div>2.40 kB</div>
+                                <div>5.05%</div>
                             </small>
                         </div>
                     </section>
@@ -343,8 +343,8 @@
                                 JS
                             </div>
                             <small>
-                                <div>12.5 kB</div>
-                                <div>26.95%</div>
+                                <div>12.6 kB</div>
+                                <div>26.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -356,19 +356,19 @@
                             </div>
                             <small>
                                 <div>3.91 kB</div>
-                                <div>8.43%</div>
+                                <div>8.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JSON
+                                Dockerfile
                             </div>
                             <small>
-                                <div>2.40 kB</div>
-                                <div>5.16%</div>
+                                <div>2.47 kB</div>
+                                <div>5.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -379,8 +379,8 @@
                                 TS
                             </div>
                             <small>
-                                <div>1.93 kB</div>
-                                <div>4.15%</div>
+                                <div>2.07 kB</div>
+                                <div>4.35%</div>
                             </small>
                         </div>
                     </section>
@@ -2392,7 +2392,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Dec 2022, 07:10:22  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 13 Dec 2022, 08:14:42  with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
