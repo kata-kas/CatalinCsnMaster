@@ -268,14 +268,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 56.6kb of code in 134 edited files across 162 commits over last 6 days</small>
+                <small>estimation from 60.4kb of code in 148 edited files across 178 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.29809290179634" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="449.29809290179634" y="0" width="10.701907098203687" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.9681635701615" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="430.9681635701615" y="0" width="29.031836429838485" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -287,8 +287,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>49.3 kB</div>
-                                <div>97.67%</div>
+                                <div>50.1 kB</div>
+                                <div>93.69%</div>
                             </small>
                         </div>
                     </section>
@@ -296,13 +296,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                JS
                             </div>
                             <small>
-                                <div>1.18 kB</div>
-                                <div>2.33%</div>
+                                <div>3.38 kB</div>
+                                <div>6.31%</div>
                             </small>
                         </div>
                     </section>
@@ -2323,7 +2323,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2023, 03:10:38  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 26 May 2023, 04:11:43  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
