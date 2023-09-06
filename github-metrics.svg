@@ -30,7 +30,7 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -268,15 +268,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 14kb of code in 39 edited files across 42 commits over last 7 days</small>
+                <small>estimation from 6.81kb of code in 31 edited files across 40 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.9620713677529" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="389.9620713677529" y="0" width="41.51714528988312" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="431.479216657636" y="0" width="28.52078334236396" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.9946484316932" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="387.9946484316932" y="0" width="40.755165749962835" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="428.749814181656" y="0" width="31.250185818343986" height="8" fill="#cb171e"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -288,8 +288,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>10.9 kB</div>
-                                <div>84.77%</div>
+                                <div>5.67 kB</div>
+                                <div>84.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -300,8 +300,8 @@
                                 YAML
                             </div>
                             <small>
-                                <div>801 bytes</div>
-                                <div>6.2%</div>
+                                <div>457 bytes</div>
+                                <div>6.79%</div>
                             </small>
                         </div>
                     </section>
@@ -314,8 +314,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>1.17 kB</div>
-                                <div>9.03%</div>
+                                <div>596 bytes</div>
+                                <div>8.86%</div>
                             </small>
                         </div>
                     </section>
@@ -2315,13 +2315,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2023, 23:09:47  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Sept 2023, 00:42:23  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
