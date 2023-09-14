@@ -268,16 +268,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 14.2kb of code in 19 edited files across 16 commits over last 7 days</small>
+                <small>estimation from 13.2kb of code in 17 edited files across 14 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.01462934308623" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="224.01462934308623" y="0" width="125.33689689126459" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="349.3515262343508" y="0" width="62.797861865241245" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="412.14938809959204" y="0" width="47.850611900407934" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.92115836555226" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="239.92115836555226" y="0" width="135.09514062618453" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="375.0162989917368" y="0" width="51.57607459631567" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="426.59237358805245" y="0" width="33.40762641194754" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -289,20 +289,20 @@
                                 Python
                             </div>
                             <small>
-                                <div>6.92 kB</div>
-                                <div>48.7%</div>
+                                <div>6.88 kB</div>
+                                <div>52.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TS
+                                JSON
                             </div>
                             <small>
-                                <div>1.94 kB</div>
-                                <div>13.65%</div>
+                                <div>1.48 kB</div>
+                                <div>11.21%</div>
                             </small>
                         </div>
                     </section>
@@ -316,19 +316,19 @@
                             </div>
                             <small>
                                 <div>3.87 kB</div>
-                                <div>27.25%</div>
+                                <div>29.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JSON
+                                TS
                             </div>
                             <small>
-                                <div>1.48 kB</div>
-                                <div>10.4%</div>
+                                <div>958 bytes</div>
+                                <div>7.26%</div>
                             </small>
                         </div>
                     </section>
@@ -2344,7 +2344,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2023, 12:18:09  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2023, 13:13:26  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
