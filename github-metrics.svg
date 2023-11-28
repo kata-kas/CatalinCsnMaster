@@ -268,16 +268,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 16.2kb of code in 25 edited files across 28 commits over last 6 days</small>
+                <small>estimation from 23.7kb of code in 32 edited files across 31 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="367.30580071414136" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="367.30580071414136" y="0" width="48.500976891463985" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="415.8067776056053" y="0" width="33.19140335511689" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="448.9981809607222" y="0" width="11.001819039277775" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="272.41650117349707" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="272.41650117349707" y="0" width="132.85520852139376" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.2717096948908" y="0" width="32.49232713486189" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="437.7640368297527" y="0" width="22.235963170247338" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -289,8 +289,34 @@
                                 Go
                             </div>
                             <small>
-                                <div>11.8 kB</div>
-                                <div>79.85%</div>
+                                <div>13.1 kB</div>
+                                <div>59.22%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Go Checksums
+                            </div>
+                            <small>
+                                <div>1.56 kB</div>
+                                <div>7.06%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Python
+                            </div>
+                            <small>
+                                <div>6.40 kB</div>
+                                <div>28.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -302,33 +328,7 @@
                             </div>
                             <small>
                                 <div>1.07 kB</div>
-                                <div>7.22%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Go Checksums
-                            </div>
-                            <small>
-                                <div>1.56 kB</div>
-                                <div>10.54%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>355 bytes</div>
-                                <div>2.39%</div>
+                                <div>4.83%</div>
                             </small>
                         </div>
                     </section>
@@ -2334,7 +2334,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2023, 21:09:11  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 22:09:41  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
