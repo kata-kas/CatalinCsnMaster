@@ -268,16 +268,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 15.1kb of code in 21 edited files across 32 commits over last 7 days</small>
+                <small>estimation from 11.3kb of code in 20 edited files across 30 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.23877112708936" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="187.23877112708936" y="0" width="164.25810066299374" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="351.4968717900831" y="0" width="64.088150154076" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="415.5850219441591" y="0" width="44.41497805584088" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="291.2331154684096" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="291.2331154684096" y="0" width="99.68336964415397" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="390.9164851125636" y="0" width="69.08351488743645" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -290,33 +289,7 @@
                             </div>
                             <small>
                                 <div>4.36 kB</div>
-                                <div>40.7%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JS
-                            </div>
-                            <small>
-                                <div>1.49 kB</div>
-                                <div>13.93%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TS
-                            </div>
-                            <small>
-                                <div>3.82 kB</div>
-                                <div>35.71%</div>
+                                <div>63.31%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -328,7 +301,21 @@
                             </div>
                             <small>
                                 <div>1.03 kB</div>
-                                <div>9.66%</div>
+                                <div>15.02%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                JS
+                            </div>
+                            <small>
+                                <div>1.49 kB</div>
+                                <div>21.67%</div>
                             </small>
                         </div>
                     </section>
@@ -2354,7 +2341,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2024, 10:02:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2024, 11:02:53  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
