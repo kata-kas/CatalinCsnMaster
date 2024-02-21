@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="868" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="888" class="">
     <defs>
         <style/>
     </defs>
@@ -268,14 +268,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 597kb of code in 342 edited files across 38 commits over last 7 days</small>
+                <small>estimation from 46.7kb of code in 38 edited files across 32 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="418.02420058766245" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="418.02420058766245" y="0" width="41.97579941233755" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="407.4558670820353" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="407.4558670820353" y="0" width="27.528556593977154" height="8" fill="#e5d559"/>
+                    <rect mask="url(#languages-bar)" x="434.98442367601245" y="0" width="25.01557632398754" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,11 +285,23 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="orange" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Go
                             </div>
                             <small>
-                                <div>432 kB</div>
-                                <div>90.87%</div>
+                                <div>39.2 kB</div>
+                                <div>88.58%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Go Checksums
+                            </div>
+                            <small>
+                                <div>2.41 kB</div>
+                                <div>5.44%</div>
                             </small>
                         </div>
                     </section>
@@ -296,13 +309,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e5d559" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                Dotenv
                             </div>
                             <small>
-                                <div>43.3 kB</div>
-                                <div>9.13%</div>
+                                <div>2.65 kB</div>
+                                <div>5.98%</div>
                             </small>
                         </div>
                     </section>
@@ -2313,7 +2326,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2024, 05:09:43  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2024, 06:13:04  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
