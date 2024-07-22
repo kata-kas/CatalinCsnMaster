@@ -268,14 +268,13 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 22.7kb of code in 4 edited files across 4 commits over last 7 days</small>
+                <small>estimation from 103b of code in 1 edited file across 2 commits over last 4 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.60589432693155" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="446.60589432693155" y="0" width="13.394105673068413" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="orange"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -284,27 +283,15 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="orange" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                Python
                             </div>
                             <small>
-                                <div>21.9 kB</div>
-                                <div>97.09%</div>
+                                <div>103 bytes</div>
+                                <div>100%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Protocol Buffer
-                            </div>
-                            <small>
-                                <div>658 bytes</div>
-                                <div>2.91%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2340,7 +2327,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2024, 04:03:53  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Jul 2024, 05:03:35  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
