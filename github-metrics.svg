@@ -268,17 +268,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 26.7kb of code in 35 edited files across 20 commits over last 7 days</small>
+                <small>estimation from 24.4kb of code in 29 edited files across 16 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.93559017375674" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="224.93559017375674" y="0" width="136.49790293588975" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="361.4334931096465" y="0" width="49.40383463151588" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="410.83732774116237" y="0" width="34.19337926902337" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="445.0307070101858" y="0" width="14.969292989814258" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.91868688933405" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="228.91868688933405" y="0" width="149.01434937247046" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="377.93303626180455" y="0" width="53.9340174154777" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="431.86705367728223" y="0" width="16.34193205510813" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="448.2089857323904" y="0" width="11.791014267609665" height="8" fill="#3178c6"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -290,8 +290,8 @@
                                 TS
                             </div>
                             <small>
-                                <div>13 kB</div>
-                                <div>48.9%</div>
+                                <div>12.1 kB</div>
+                                <div>49.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -303,19 +303,19 @@
                             </div>
                             <small>
                                 <div>2.87 kB</div>
-                                <div>10.74%</div>
+                                <div>11.72%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go Module
+                                TSX
                             </div>
                             <small>
-                                <div>869 bytes</div>
-                                <div>3.25%</div>
+                                <div>627 bytes</div>
+                                <div>2.56%</div>
                             </small>
                         </div>
                     </section>
@@ -329,19 +329,19 @@
                             </div>
                             <small>
                                 <div>7.92 kB</div>
-                                <div>29.67%</div>
+                                <div>32.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TSX
+                                Go Module
                             </div>
                             <small>
-                                <div>1.99 kB</div>
-                                <div>7.43%</div>
+                                <div>869 bytes</div>
+                                <div>3.55%</div>
                             </small>
                         </div>
                     </section>
@@ -2357,7 +2357,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2024, 00:10:49  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2024, 01:30:05  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
