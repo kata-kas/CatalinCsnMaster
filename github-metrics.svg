@@ -268,17 +268,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 45.3kb of code in 56 edited files across 52 commits over last 7 days</small>
+                <small>estimation from 44.7kb of code in 53 edited files across 48 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.2193515581491" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="199.2193515581491" y="0" width="195.2875372285043" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="394.50688878665346" y="0" width="35.49771180900264" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="430.0046005956561" y="0" width="16.863362309014747" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="446.86796290467083" y="0" width="13.132037095329185" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.5646081865615" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="197.5646081865615" y="0" width="196.17862479484603" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="393.7432329814075" y="0" width="35.911618450383365" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="429.65485143179086" y="0" width="17.059990691521936" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="446.71484212331285" y="0" width="13.285157876687162" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -287,11 +287,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="orange" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                RenderScript
+                                Go
                             </div>
                             <small>
-                                <div>17.8 kB</div>
-                                <div>43.31%</div>
+                                <div>17.5 kB</div>
+                                <div>42.95%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -303,7 +303,7 @@
                             </div>
                             <small>
                                 <div>3.19 kB</div>
-                                <div>7.72%</div>
+                                <div>7.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -315,7 +315,7 @@
                             </div>
                             <small>
                                 <div>1.18 kB</div>
-                                <div>2.85%</div>
+                                <div>2.89%</div>
                             </small>
                         </div>
                     </section>
@@ -323,13 +323,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                RenderScript
                             </div>
                             <small>
-                                <div>17.5 kB</div>
-                                <div>42.45%</div>
+                                <div>17.4 kB</div>
+                                <div>42.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -341,7 +341,7 @@
                             </div>
                             <small>
                                 <div>1.51 kB</div>
-                                <div>3.67%</div>
+                                <div>3.71%</div>
                             </small>
                         </div>
                     </section>
@@ -2347,7 +2347,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2024, 21:03:19  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2024, 22:03:21  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
