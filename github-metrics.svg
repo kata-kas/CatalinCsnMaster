@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="810" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="830" class="">
     <defs>
         <style/>
     </defs>
@@ -223,14 +223,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 192kb of code in 87 edited files across 77 commits over last 7 days</small>
+                <small>estimation from 117kb of code in 79 edited files across 67 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="383.52179758018053" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="383.52179758018053" y="0" width="76.47820241981947" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.8302517384507" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="358.8302517384507" y="0" width="71.55445348858103" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="430.38470522703176" y="0" width="14.853107649183332" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="445.2378128762151" y="0" width="14.76218712378488" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -243,7 +245,19 @@
                             </div>
                             <small>
                                 <div>86.8 kB</div>
-                                <div>83.37%</div>
+                                <div>78.01%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Go Module
+                            </div>
+                            <small>
+                                <div>3.59 kB</div>
+                                <div>3.23%</div>
                             </small>
                         </div>
                     </section>
@@ -257,7 +271,19 @@
                             </div>
                             <small>
                                 <div>17.3 kB</div>
-                                <div>16.63%</div>
+                                <div>15.56%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Go Checksums
+                            </div>
+                            <small>
+                                <div>3.57 kB</div>
+                                <div>3.21%</div>
                             </small>
                         </div>
                     </section>
@@ -2278,7 +2304,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2025, 15:03:28  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2025, 16:03:47  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
