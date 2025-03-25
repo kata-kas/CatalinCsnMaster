@@ -268,16 +268,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 133kb of code in 225 edited files across 170 commits over last 7 days</small>
+                <small>estimation from 140kb of code in 246 edited files across 187 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.27474612600582" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="164.27474612600582" y="0" width="137.87958115183247" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="302.1543272778383" y="0" width="89.8049826065568" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="391.95930988439505" y="0" width="68.0406901156049" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.92825824384917" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="153.92825824384917" y="0" width="129.8471185823723" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="283.7753768262215" y="0" width="93.8167408461424" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="377.5921176723639" y="0" width="82.40788232763613" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -289,20 +289,20 @@
                                 TSX
                             </div>
                             <small>
-                                <div>40.6 kB</div>
-                                <div>35.71%</div>
+                                <div>40.4 kB</div>
+                                <div>33.46%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TS
+                                Python
                             </div>
                             <small>
-                                <div>22.2 kB</div>
-                                <div>19.52%</div>
+                                <div>24.6 kB</div>
+                                <div>20.39%</div>
                             </small>
                         </div>
                     </section>
@@ -316,19 +316,19 @@
                             </div>
                             <small>
                                 <div>34.1 kB</div>
-                                <div>29.97%</div>
+                                <div>28.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                TS
                             </div>
                             <small>
-                                <div>16.8 kB</div>
-                                <div>14.79%</div>
+                                <div>21.6 kB</div>
+                                <div>17.91%</div>
                             </small>
                         </div>
                     </section>
@@ -2340,7 +2340,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2025, 11:03:31  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2025, 12:04:57  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
