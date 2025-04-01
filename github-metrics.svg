@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="850" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="830" class="">
     <defs>
         <style/>
     </defs>
@@ -223,18 +223,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 37.7kb of code in 39 edited files across 25 commits over last 7 days</small>
+                <small>estimation from 27.1kb of code in 22 edited files across 17 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.74979153777872" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="225.74979153777872" y="0" width="85.54859187131828" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="311.298383409097" y="0" width="51.6830298302714" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="362.9814132393684" y="0" width="44.12297926137128" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="407.1043925007397" y="0" width="30.07935013583667" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="437.18374263657637" y="0" width="22.816257363423624" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.8062067177721" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="310.8062067177721" y="0" width="117.78098729770767" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="428.5871940154797" y="0" width="31.412805984520237" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -247,31 +244,19 @@
                             </div>
                             <small>
                                 <div>18.2 kB</div>
-                                <div>49.08%</div>
+                                <div>67.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TS
+                                Go Module
                             </div>
                             <small>
-                                <div>4.18 kB</div>
-                                <div>11.24%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JS
-                            </div>
-                            <small>
-                                <div>2.43 kB</div>
-                                <div>6.54%</div>
+                                <div>1.84 kB</div>
+                                <div>6.83%</div>
                             </small>
                         </div>
                     </section>
@@ -285,31 +270,7 @@
                             </div>
                             <small>
                                 <div>6.91 kB</div>
-                                <div>18.6%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JSON
-                            </div>
-                            <small>
-                                <div>3.57 kB</div>
-                                <div>9.59%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Go Module
-                            </div>
-                            <small>
-                                <div>1.84 kB</div>
-                                <div>4.96%</div>
+                                <div>25.6%</div>
                             </small>
                         </div>
                     </section>
@@ -538,15 +499,15 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 9)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
-                            </g>
-                            <g transform="translate(-6.8, 9.142857142857142)">
+                            <g transform="translate(-5.1, 8.142857142857142)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.857142857142857 0,1.8571428571428572 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8571428571428572 1.7,2.857142857142857 z"/>
+                            </g>
+                            <g transform="translate(-6.8, 10)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-8.5, 7.571428571428571)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2315,7 +2276,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2025, 17:03:28  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2025, 18:03:41  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
