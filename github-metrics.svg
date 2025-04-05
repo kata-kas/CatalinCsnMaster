@@ -268,14 +268,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 582kb of code in 348 edited files across 147 commits over last 7 days</small>
+                <small>estimation from 586kb of code in 352 edited files across 149 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.65793946502083" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="443.65793946502083" y="0" width="16.34206053497913" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="443.81026827885887" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="443.81026827885887" y="0" width="16.18973172114113" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -287,8 +287,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>404 kB</div>
-                                <div>96.45%</div>
+                                <div>408 kB</div>
+                                <div>96.48%</div>
                             </small>
                         </div>
                     </section>
@@ -302,7 +302,7 @@
                             </div>
                             <small>
                                 <div>14.9 kB</div>
-                                <div>3.55%</div>
+                                <div>3.52%</div>
                             </small>
                         </div>
                     </section>
@@ -2334,7 +2334,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Apr 2025, 07:03:20  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Apr 2025, 08:03:43  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
