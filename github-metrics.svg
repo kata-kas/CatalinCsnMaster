@@ -268,16 +268,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.54mb of code in 766 edited files across 178 commits over last 7 days</small>
+                <small>estimation from 1.48mb of code in 728 edited files across 178 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="213.19533263447974" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="213.19533263447974" y="0" width="171.21858401273195" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="384.4139166472117" y="0" width="49.10389572737995" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="433.51781237459164" y="0" width="26.48218762540836" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.97540430445" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="196.97540430445" y="0" width="182.47101773329322" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="379.4464220377433" y="0" width="52.330988950231315" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="431.7774109879746" y="0" width="28.222589012025466" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -289,8 +289,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>303 kB</div>
-                                <div>46.35%</div>
+                                <div>263 kB</div>
+                                <div>42.82%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -302,7 +302,7 @@
                             </div>
                             <small>
                                 <div>69.9 kB</div>
-                                <div>10.67%</div>
+                                <div>11.38%</div>
                             </small>
                         </div>
                     </section>
@@ -316,7 +316,7 @@
                             </div>
                             <small>
                                 <div>243 kB</div>
-                                <div>37.22%</div>
+                                <div>39.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -328,7 +328,7 @@
                             </div>
                             <small>
                                 <div>37.7 kB</div>
-                                <div>5.76%</div>
+                                <div>6.14%</div>
                             </small>
                         </div>
                     </section>
@@ -2350,7 +2350,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Apr 2025, 05:03:43  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Apr 2025, 06:04:40  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
