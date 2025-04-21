@@ -268,16 +268,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 964kb of code in 410 edited files across 101 commits over last 7 days</small>
+                <small>estimation from 658kb of code in 329 edited files across 89 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.064417276862" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="359.064417276862" y="0" width="52.293882993021725" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="411.3583002698837" y="0" width="26.405126716342483" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="437.76342698622625" y="0" width="22.23657301377375" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="372.6242989736505" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="372.6242989736505" y="0" width="45.37142959162495" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="417.9957285652755" y="0" width="23.076325673465107" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="441.07205423874063" y="0" width="18.927945761259384" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -290,19 +290,19 @@
                             </div>
                             <small>
                                 <div>362 kB</div>
-                                <div>78.06%</div>
+                                <div>81.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TS
+                                Go Checksums
                             </div>
                             <small>
-                                <div>26.6 kB</div>
-                                <div>5.74%</div>
+                                <div>22.4 kB</div>
+                                <div>5.02%</div>
                             </small>
                         </div>
                     </section>
@@ -315,20 +315,20 @@
                                 TSX
                             </div>
                             <small>
-                                <div>52.8 kB</div>
-                                <div>11.37%</div>
+                                <div>44.2 kB</div>
+                                <div>9.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go Checksums
+                                TS
                             </div>
                             <small>
-                                <div>22.4 kB</div>
-                                <div>4.83%</div>
+                                <div>18.4 kB</div>
+                                <div>4.11%</div>
                             </small>
                         </div>
                     </section>
@@ -2329,7 +2329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2025, 02:32:27  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Apr 2025, 03:19:52  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
