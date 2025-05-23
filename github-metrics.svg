@@ -268,16 +268,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 138kb of code in 110 edited files across 114 commits over last 7 days</small>
+                <small>estimation from 129kb of code in 97 edited files across 105 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="214.24314728563795" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="214.24314728563795" y="0" width="203.37710926166295" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="417.6202565473009" y="0" width="22.021837061922575" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="439.6420936092235" y="0" width="20.357906390776513" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="228.48066607631787" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="228.48066607631787" y="0" width="193.15907864871193" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="421.6397447250298" y="0" width="21.71079015135322" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="443.350534876383" y="0" width="16.649465123617006" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -290,19 +290,19 @@
                             </div>
                             <small>
                                 <div>48.8 kB</div>
-                                <div>46.57%</div>
+                                <div>49.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go Checksums
+                                Dockerfile
                             </div>
                             <small>
-                                <div>5.02 kB</div>
-                                <div>4.79%</div>
+                                <div>4.64 kB</div>
+                                <div>4.72%</div>
                             </small>
                         </div>
                     </section>
@@ -315,20 +315,20 @@
                                 Go
                             </div>
                             <small>
-                                <div>46.3 kB</div>
-                                <div>44.21%</div>
+                                <div>41.2 kB</div>
+                                <div>41.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Go Checksums
                             </div>
                             <small>
-                                <div>4.64 kB</div>
-                                <div>4.43%</div>
+                                <div>3.56 kB</div>
+                                <div>3.62%</div>
                             </small>
                         </div>
                     </section>
@@ -2355,7 +2355,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2025, 19:11:39  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2025, 20:16:14  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
